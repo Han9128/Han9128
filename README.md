@@ -1,6 +1,6 @@
-- 👋 Hi, My name is Md Shahreyar Hannan. I am a fourth-year undergraduate student of the department of Mining Engineering with a specialization in Financial Engineering at IIT Kharagpur.
-- 👀 I’m interested in Data and machine learning/ Deep learning and AI.
-- 🌱 I’m currently learning Data science from coursera
+- 👋 Hi, My name is Md Shahreyar Hannan. I am a fifth-year undergraduate student of the department of Mining Engineering with a specialization in Financial Engineering at IIT Kharagpur.
+- 👀 I’m interested in Data Science, machine learning, Deep learning and AI. My interest also lies in Data Structures and Algorithms, solving new problems and software develeopment.
+- 🌱 I have completed multiple courses and projects in the domain of machine learning and deep learning.
 - 💞️ I’m looking to collaborate on any project pertaining to ML/DL application
 - 📫 I am available on Linkedin https://www.linkedin.com/in/md-shahreyar-hannan/
 
